@@ -1,2 +1,3 @@
 # README #
-Making more changes
+Making more changes.
+Figuring out how to upload to GitHub.
